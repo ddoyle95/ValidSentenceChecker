@@ -1,7 +1,4 @@
 package main.java.com.doyle.ValidSentenceChecker;
-import java.util.HashSet;
-import java.util.Set;
-
 /**
  * This class provides functionality to check the validity of sentences based on specific rules.
  * It checks for proper punctuation, capitalisation, and the presence of numbers below a certain threshold.
